@@ -1,64 +1,63 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Code+Universe+👨‍💻;Full+Stack+Developer+|+Tech+Enthusiast;Building+Tomorrow's+Solutions+Today;Let's+Create+Something+Extraordinary!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Shaik+Abdul+Rahiman+%F0%9F%91%8B;Full+Stack+Web+Developer+%7C+CSE+Student;Building+Clean%2C+Purposeful+Software;Always+Learning+%E2%80%94+Always+Building" alt="Typing SVG" />
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/rahimanshaik159-ui">
-    <img src="https://img.shields.io/badge/GitHub-rahimanshaik159%2Dui-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00D9FF" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-rahimanshaik159--ui-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://www.codewithrahiman.in">
-    <img src="https://img.shields.io/badge/Portfolio-codewithrahiman.in-FF006E?style=for-the-badge&logo=world&logoColor=white&labelColor=0d1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-codewithrahiman.in-FF006E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="mailto:srahiman268@gmail.com">
-    <img src="https://img.shields.io/badge/Email-srahiman268%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-srahiman268@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                    SHAIK ABDUL RAHIMAN                        ║
-║              Diploma Computer Science Engineering              ║
-║        Aspiring Software Engineer | Web Developer             ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+I'm a **Diploma Computer Science Engineering student** from India with a strong passion for full-stack web development and software engineering. I enjoy building practical, well-crafted applications — from billing tools to interactive web experiences.
 
-I'm a passionate **Diploma Computer Science Engineering student** and aspiring software engineer from India, dedicated to crafting elegant solutions to complex problems. As a full-stack web developer, I specialize in building responsive, user-centric applications with modern technologies.
+Currently preparing for **AP ECET** while deepening my expertise in Python, Java, JavaScript, and Data Structures & Algorithms. I believe in learning by building, and every project I ship teaches me something new.
 
-**Current Focus:**
-- 🎓 Preparing for **ECET (AP ECET) Examination**
-- 💻 Mastering **Python**, **Java**, **JavaScript**, and **Data Structures & Algorithms**
-- 🚀 Exploring modern web development frameworks and best practices
-- 👨‍💻 Building real-world projects that solve actual problems
-- 🌐 Creating intuitive and performant user experiences
-
-**Creator of BillMaster Pro** - An innovative billing and management solution
+- Preparing for **AP ECET Examination**
+- Actively learning **React**, **Node.js**, and **Express**
+- Building real-world projects with practical use cases
+- Open to **collaborations**, **freelance work**, and **open-source contributions**
+- Creator of **BillMaster Pro** — a billing and invoice management solution
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Databases & Tools
+**Tools & Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Currently Learning
+**Currently Learning**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -67,13 +66,13 @@ I'm a passionate **Diploma Computer Science Engineering student** and aspiring s
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahimanshaik159-ui&show_icons=true&theme=dark&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&text_color=e0e6fc&icon_color=00D9FF&hide_border=false&count_private=true" alt="GitHub Stats" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimanshaik159-ui&layout=compact&theme=dark&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&text_color=e0e6fc&hide_border=false" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahimanshaik159-ui&show_icons=true&theme=dark&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&text_color=e0e6fc&icon_color=00D9FF&count_private=true&hide_border=false" height="180" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimanshaik159-ui&layout=compact&theme=dark&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&text_color=e0e6fc&hide_border=false" height="180" alt="Top Languages" />
 
 </div>
 
@@ -83,171 +82,96 @@ I'm a passionate **Diploma Computer Science Engineering student** and aspiring s
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-### BillMaster Pro
-<img src="https://img.shields.io/badge/JavaScript-HTML5-F7DF1E?style=flat-square&logo=javascript" />
-<img src="https://img.shields.io/badge/CSS3-Responsive-1572B6?style=flat-square&logo=css3" />
-
-**An innovative billing and invoice management solution** designed to simplify financial tracking for businesses and individuals.
-
-[🔗 View Project](https://github.com/rahimanshaik159-ui) | [📦 Live Demo](#)
-
----
-
-### Portfolio Website
-<img src="https://img.shields.io/badge/Responsive-Design-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Modern-Web-FF006E?style=flat-square" />
-
-**Professional portfolio showcasing my projects, skills, and journey** as a developer.
-
-🌐 [Visit Portfolio](https://www.codewithrahiman.in) | [🔗 GitHub](https://github.com/rahimanshaik159-ui)
-
----
-
-### Wishes Project
-<img src="https://img.shields.io/badge/Interactive-Experience-00D9FF?style=flat-square" />
-
-**An engaging application for sharing and discovering wishes** with a beautiful user interface.
-
-[🔗 View Project](https://github.com/rahimanshaik159-ui)
-
----
-
-### Shield Project
-<img src="https://img.shields.io/badge/Security-Focused-FF006E?style=flat-square" />
-<img src="https://img.shields.io/badge/JavaScript-Powered-F7DF1E?style=flat-square" />
-
-**Security-focused project demonstrating best practices** in data protection and secure coding.
-
-[🔗 View Project](https://github.com/rahimanshaik159-ui)
-
----
-
-### Doctor Strange Interactive Experience
-<img src="https://img.shields.io/badge/Interactive-3D-00D9FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Web-Experience-FF006E?style=flat-square" />
-
-**An immersive, interactive web experience** inspired by the Marvel universe.
-
-[🔗 View Project](https://github.com/rahimanshaik159-ui)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahimanshaik159-ui&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF006E&area=true&hide_border=false" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Milestones
+## Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>BillMaster Pro</h3>
+      <p>A billing and invoice management solution built for individuals and small businesses. Simplifies financial tracking with a clean, intuitive interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <a href="https://github.com/rahimanshaik159-ui">View on GitHub →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Portfolio Website</h3>
+      <p>A responsive developer portfolio showcasing projects, skills, and journey. Built with a focus on clean design and performance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Responsive-Design-00D9FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Modern-Web-FF006E?style=flat-square" />
+      </p>
+      <a href="https://www.codewithrahiman.in">Live Site →</a> &nbsp; <a href="https://github.com/rahimanshaik159-ui">GitHub →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Doctor Strange Interactive Experience</h3>
+      <p>An immersive, interactive web experience with dynamic animations and visual effects, inspired by creative front-end development challenges.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Interactive-Web-00D9FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-Powered-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/rahimanshaik159-ui">View on GitHub →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Shield Project</h3>
+      <p>A security-focused project demonstrating best practices in data protection and secure coding patterns using JavaScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Security-Focused-FF006E?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/rahimanshaik159-ui">View on GitHub →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Trophies
 
 <div align="center">
 
-🎓 **Education**
-- 📚 Pursuing Diploma in Computer Science Engineering
-- 🎯 Preparing for ECET (AP ECET) Examination
-- 💡 Strong foundation in Data Structures & Algorithms
-
-⚡ **Development Milestones**
-- ✅ Created multiple full-stack web applications
-- ✅ Mastered responsive design and modern CSS frameworks
-- ✅ Built real-world projects with practical applications
-- ✅ Active contributor and continuous learner
-
-🚀 **Career Goals**
-- 🎯 Secure position as Software Engineer in leading IT company
-- 🌟 Contribute to open-source community projects
-- 💻 Build scalable, high-performance applications
-- 🏗️ Master advanced architectural patterns
+![Trophies](https://github-profile-trophy.vercel.app/?username=rahimanshaik159-ui&theme=darkhub&no-bg=true&column=7&margin-w=6&margin-h=6)
 
 </div>
 
 ---
 
-## 📈 GitHub Trophies
+## Connect With Me
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=rahimanshaik159-ui&theme=dark&no-bg=true&column=7&margin-w=5&margin-h=5)
+I'm open to collaborations, freelance opportunities, and conversations about web development and software engineering.
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-### Let's Collaborate and Build Amazing Projects Together!
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/rahimanshaik159-ui)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-codewithrahiman.in-FF006E?style=for-the-badge&logo=world&logoColor=white&labelColor=0d1117)](https://www.codewithrahiman.in)
-
-[![Email](https://img.shields.io/badge/Email-srahiman268%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:srahiman268@gmail.com)
-
-</div>
-
----
-
-## 💬 Quick Facts
-
-<div align="center">
-
-| 👤 | **Shaik Abdul Rahiman** |
-|:--:|:--|
-| 🎓 | Diploma CSE Student |
-| 💼 | Aspiring Software Engineer & Web Developer |
-| 📍 | India |
-| 🌍 | Open to collaborations and freelance opportunities |
-| 🔗 | [Portfolio](https://www.codewithrahiman.in) \| [GitHub](https://github.com/rahimanshaik159-ui) |
-| ✉️ | srahiman268@gmail.com |
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-codewithrahiman.in-FF006E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://www.codewithrahiman.in)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-srahiman268@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:srahiman268@gmail.com)
 
 </div>
 
 ---
-
-## 🎯 What I'm Working On
-
-```
-┌─────────────────────────────────────────────┐
-│  Current Learning & Development Focus:      │
-│  ✅ Advanced JavaScript & DOM Manipulation  │
-│  ✅ Python Programming & Data Structures    │
-│  ✅ Java OOP Concepts                       │
-│  ✅ Full-Stack Web Development              │
-│  ✅ Algorithm Design & Optimization         │
-│  ✅ ECET Exam Preparation                   │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## 📝 Visitor Counter
 
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frahimanshaik159-ui&label=Profile%20Views&labelColor=0d1117&countColor=00D9FF)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### 🌟 Thank you for visiting my profile! Don't forget to ⭐ star some repositories if you find them useful! 🌟
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Keep+Coding+%7C+Keep+Learning+%7C+Keep+Growing!" alt="Closing Message" />
-
-Made with ❤️ by **Shaik Abdul Rahiman**
-
-</div>
-
----
-
-<div align="center">
-
-**[⬆ Back to Top](#)**
+<sub>Made with dedication by <strong>Shaik Abdul Rahiman</strong> — Keep building. Keep learning.</sub>
 
 </div>
